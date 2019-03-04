@@ -52,4 +52,4 @@ console.log(table);
 
 
 var asd = tourList.map(toCard).join('\n');
-console.log(asd);
+//console.log(asd);
